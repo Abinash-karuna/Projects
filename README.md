@@ -20,3 +20,4 @@ PROPOSED SYSTEMS
         The Arduino executes orders in real time, ensuring that lighting changes are carried out quickly
 
 
+![Capture](https://github.com/Abinash-karuna/Projects/assets/106005597/4455cb25-7066-4566-9c40-872d758649d6)
