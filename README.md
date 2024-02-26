@@ -21,3 +21,27 @@ PROPOSED SYSTEMS
 
 
 ![Capture](https://github.com/Abinash-karuna/Projects/assets/106005597/4455cb25-7066-4566-9c40-872d758649d6)
+
+
+APPLICATION
+
+Home Automation
+Traffic monitoring and surveillance
+Security and surveillance
+Automotive Lighting
+Healthcare and Accessibility
+Sign Language Interpretation
+Military and Secrete operation
+
+OUTPUT
+
+![image](https://github.com/Abinash-karuna/Projects/assets/106005597/58ebf0f0-b36c-4ef4-97aa-de6fab0e8a30)
+
+CONCLUSION
+
+To sum up, computer vision technology-based smart light control represents a revolutionary development in lighting systems. This invention ensures energy efficiency, convenience, and customized experiences by using cameras and advanced algorithms to automatically adjust lighting based on changes in the surrounding environment and the presence of people.
+
+
+
+
+
