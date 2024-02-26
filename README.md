@@ -1,4 +1,4 @@
-                                                              LIGHT CONTROLLING USING COMPUTER VISION
+                                                   LIGHT CONTROLLING USING COMPUTER VISION
 ABSTRACT
      Computer vision integration in smart lighting systems transforms user experience and energy efficiency by Utilizing cameras, image processing, and machine learning etc.. This system strives to streamline human interaction with lighting, minimize energy consumption, and elevate comfort levels by implementing intelligent, automated, and energy-efficient lighting control within indoor spaces.Smart lighting, widely adopted, incorporates advanced features like remote on/off control, enhancing user comfort and contributing to energy savings. 
 
